@@ -6,4 +6,4 @@
 
  <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+<img src="[https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif](https://media.tenor.com/VdIqLsIJPH8AAAAM/the-simpsons-homer-simpson.gif)" width="45%" align="right" />
