@@ -6,7 +6,7 @@
 
  <p>- <i>Estudiante de Tecnicatura en Analisis de sistemas de computacion. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
 
-<img src="https://media.tenor.com/VdIqLsIJPH8AAAAM/the-simpsons-homer-simpson.gif" width="45%" align="right" />
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHthczZb_j1Hg/feedshare-shrink_1280/B4DZYGnPRqHIAs-/0/1743867673063?e=2147483647&v=beta&t=0KzqwL-mVJKuoqQUWB1RbsKh8VC0V1HeVnplCMscL-0" width="45%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre mim
 
