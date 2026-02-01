@@ -2,7 +2,7 @@
 
 # Olá👋, Bem-vindo ao meu perfil do GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+<img src="https://preview.redd.it/courage-the-cowardly-dog-v0-c21pv5bos4gc1.gif?width=500&auto=webp&s=53cb87c13afdb7a7509d1e4b4dbd948b8f1a69aa"/>
 
  <p>- <i>Estudiante de Tecnicatura en Analisis de sistemas de computacion. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
 
