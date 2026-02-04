@@ -1,32 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+# Hey there👋, Welcome to my Github Profile
 
-# Olá👋, Bem-vindo ao meu perfil do GitHub
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+ 
+ <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
-<img src="https://preview.redd.it/courage-the-cowardly-dog-v0-c21pv5bos4gc1.gif?width=500&auto=webp&s=53cb87c13afdb7a7509d1e4b4dbd948b8f1a69aa"/>
 
- <p>- <i>Estudiante de Tecnicatura en Analisis de sistemas de computacion. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHthczZb_j1Hg/feedshare-shrink_1280/B4DZYGnPRqHIAs-/0/1743867673063?e=2147483647&v=beta&t=0KzqwL-mVJKuoqQUWB1RbsKh8VC0V1HeVnplCMscL-0" width="45%" align="right" />
-
-⚡🙋‍♂️ Sobre mim
-
-</br>
-
-- 🌱 Estudando Ciência de Dados com Python
-- 😄 Pronouns: ela/dela
-- 📫 Como chegar até mim: gabybonifacio2@gmail.com
-
-<hr>
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarciaGabrielle&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarciaGabrielle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-<div>
-<div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=MarciaGabrielle&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Marcia Gabrielle github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarciaGabrielle&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
-</div>
-<div>
-
-<div align="c
