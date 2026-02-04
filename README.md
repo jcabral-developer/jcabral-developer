@@ -7,3 +7,15 @@
 
 
 <img src="https://preview.redd.it/courage-the-cowardly-dog-v0-c21pv5bos4gc1.gif?width=500&auto=webp&s=53cb87c13afdb7a7509d1e4b4dbd948b8f1a69aa" width="50%" align="right" />
+
+ ⚡🙋‍♂️ Sobre Mí
+
+</br>
+
+- 🔧 Actualmente estoy trabajando en una aplicación web para un negocio de comidas de venta al público.
+- 💡 Me interesa la automatización de sistemas y la implementación de inteligencia artificial personalizada en aplicaciones.
+- 📖 Actualmente estoy aprendiendo Laravel para fortalecer mis conocimientos en desarrollo backend.
+- ❄️ Estoy buscando colaborar en proyectos de código abierto y seguir creciendo como desarrollador.
+- 📫 Cómo contactarme: jcabral.developer@gmail.com
+
+<hr>
