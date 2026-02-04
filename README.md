@@ -26,7 +26,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="60%">
+    <td width="100%">
      
 ## 🛠️ Skills
 
@@ -86,12 +86,4 @@
       </div>
 
 </p>
-
-
-	
-
 </div>
-
-
-------
-[Mahdiiye](http
