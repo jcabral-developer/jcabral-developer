@@ -70,7 +70,8 @@
      
 </td>
 
- align="center">
+<h3 align="center">Contactame 🤝</h3>
+<p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/">
@@ -95,16 +96,3 @@
 
 ------
 [Mahdiiye](http
-<!--
-
-<div style = "display: flex; align-items: center; justify-content: center;">
- 
-  </td>
-</table>
-
-
-<!--
-#### Cloud Infrastructures
-
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![AWS](h
